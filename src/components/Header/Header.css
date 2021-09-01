@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 30px;
+
+  align-items: center;
+  -webkit-box-shadow: 5px -4px 8px 7px rgba(0, 0, 0, 0.1);
+  box-shadow: 5px -4px 8px 7px rgba(0, 0, 0, 0.1);
+}
